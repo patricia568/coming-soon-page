@@ -37,3 +37,11 @@ a:hover {
 .dot {
   color: #A7D486;
 }
+
+h2 {
+  color: #A7D486;
+}
+
+.outer-box {
+  width: 90%;
+}
